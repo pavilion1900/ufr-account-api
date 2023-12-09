@@ -1,0 +1,10 @@
+*.iml
+target
+.idea/
+.gradle/
+build/
+*.db
+*.log
+*.pdf
+*.gz
+check.txt
